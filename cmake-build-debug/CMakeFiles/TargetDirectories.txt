@@ -1,0 +1,3 @@
+C:/Users/lunde/CLionProjects/LO02_2020_EX34/cmake-build-debug/CMakeFiles/LO02_2020_Ex34.dir
+C:/Users/lunde/CLionProjects/LO02_2020_EX34/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lunde/CLionProjects/LO02_2020_EX34/cmake-build-debug/CMakeFiles/rebuild_cache.dir
